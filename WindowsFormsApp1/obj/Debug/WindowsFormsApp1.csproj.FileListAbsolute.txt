@@ -1,0 +1,15 @@
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\QuanLySach\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\QuanLySach\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\QuanLySach\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\QuanLySach\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\QuanLySach\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\QuanLySach\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\QuanLySach\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\QuanLySach\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\QuanLySach\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmQuanLySach.resources
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\QuanLySach\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\QuanLySach\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\QuanLySach\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\QuanLySach\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\QuanLySach\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\QUOCDUY\OneDrive\Máy tính\Workspace\C#\QuanLySach\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
